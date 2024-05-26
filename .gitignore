@@ -44,3 +44,7 @@ app.*.map.json
 
 # FVM Version Cache
 .fvm/
+/.mason/
+.mason/bricks.json
+/.mason
+.mason/bricks.json
