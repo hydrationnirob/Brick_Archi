@@ -1,7 +1,5 @@
-name: fe
-description: A new brick created with the Mason CLI.
-
-
+name: feature
+description: A feature brick for Mason  which is a tool for generating code from bricks and templates. Following the architecture of MVVM and Clean Architecture.
 version: 0.1.0+1
 
 environment:
@@ -13,4 +11,3 @@ vars:
     description: Your name
     default: new_feature
     prompt: What is your new feature name ?
-#
