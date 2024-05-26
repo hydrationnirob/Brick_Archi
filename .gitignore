@@ -48,3 +48,4 @@ app.*.map.json
 .mason/bricks.json
 /.mason
 .mason/bricks.json
+/android/
