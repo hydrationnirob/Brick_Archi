@@ -19,7 +19,7 @@ A feature brick for Mason is a tool designed to generate code from predefined br
 
 To run this project, you will need to add the following environment variables to your `mason.yaml` file:
 
-`https://github.com/hydrationnirob/mason_bricks_archi`
+`https://github.com/hydrationnirob/Brick_Archi`
 
 ## Installing Process
 
@@ -41,7 +41,7 @@ To run this project, you will need to add the following environment variables to
     bricks:
       feature:
         git:
-          url: https://github.com/hydrationnirob/mason_bricks_archi
+          url: https://github.com/hydrationnirob/Brick_Archi
           path: bricks/feature
     ```
 
