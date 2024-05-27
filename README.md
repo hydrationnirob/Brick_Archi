@@ -1,6 +1,6 @@
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-# mason_bricks_archi
+# Brick_Archi
 
 A feature brick for Mason is a tool designed to generate code from predefined bricks and templates, adhering to the principles of MVVM (Model-View-ViewModel) and Clean Architecture. This approach ensures a clear separation of concerns, making the codebase more maintainable and scalable. By following these architectural patterns, the generated code promotes better organization and testability, with distinct layers for the presentation, domain, and data handling. The MVVM pattern facilitates efficient data binding between the user interface and the underlying data models, while Clean Architecture enforces a robust structure that keeps the business logic independent of the frameworks and user interface elements.
 
