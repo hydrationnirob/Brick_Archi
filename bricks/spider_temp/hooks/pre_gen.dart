@@ -8,6 +8,4 @@ void run(HookContext context) {
   // Use the `Logger` instance.
   context.logger.info('Hello $name!');
 
-  // Update vars.
-  context.vars['current_year'] = DateTime.now().year;
 }
