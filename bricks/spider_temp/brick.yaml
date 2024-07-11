@@ -1,17 +1,7 @@
 name: spider_temp
-description: A new brick created with the Mason CLI.
-
-# The following defines the brick repository url.
-# Uncomment and update the following line before publishing the brick.
-# repository: https://github.com/my_org/my_repo
-
-# The following defines the version and build number for your brick.
-# A version number is three numbers separated by dots, like 1.2.34
-# followed by an optional build number (separated by a +).
+description: A spider_temp brick for Mason  which is a tool for generating code from bricks and templates.
 version: 0.1.0+1
 
-# The following defines the environment for the current brick.
-# It includes the version of mason that the brick requires.
 environment:
   mason: ">=0.1.0-dev.53 <0.1.0"
 
@@ -26,8 +16,14 @@ environment:
 #  * a list of values (enums only)
 #  * an optional separator (list only)
 vars:
-  name:
+  projectName:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: Project name
+    prompt: What is your project Name ?
+
+  appName :
+    type: string
+    description: Set Your App Name
+    default: Spider
+    prompt: What is your App Name ?
+

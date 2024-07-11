@@ -1,1 +1,1 @@
-{"bricks":{"fe":{"git":{"url":"https://github.com/hydrationnirob/maosn_bracks_archi","path":"bricks/feature","ref":"4859d0dd544934adc1479e2e216aa3ace45f4ff7"}}}}
+{"bricks":{"feature":{"git":{"url":"https://github.com/hydrationnirob/Brick_Archi.git","path":"bricks/feature","ref":"6f77cdcf6226cc2dbe25651d68a2c5221f469685"}},"spider_temp":{"git":{"url":"https://github.com/hydrationnirob/Brick_Archi.git","path":"bricks/spider_temp","ref":"6f77cdcf6226cc2dbe25651d68a2c5221f469685"}}}}
