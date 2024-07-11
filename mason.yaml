@@ -11,3 +11,9 @@ bricks:
      git:
        url: https://github.com/hydrationnirob/maosn_bracks_archi
        path: bricks/feature
+
+   sp:
+     git:
+       url: https://github.com/hydrationnirob/maosn_bracks_archi
+       path: bricks/spider_temp
+
